@@ -1,10 +1,10 @@
 <?php
 // Read the file
-$filename = 'image.png.txt';
+$filename = 'card.png.txt';
 $content = file_get_contents($filename);
 
 // Display hello world with name
-echo "Hello World, my name is Junior!\n\n";
+echo "Hello World, my name is Jean Paul!\n\n";
 
 // Display all content
 echo "=== COMPLETE FILE CONTENT ===\n";
